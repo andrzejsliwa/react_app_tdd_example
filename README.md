@@ -11,9 +11,11 @@ Status: WIP
 
 ## Running:
 
-yarn install
-yarn test
-yarn start 
+```
+$ yarn install
+$ yarn test
+$ yarn start 
+```
 
 For development yarn have configured proxy to localhost:5000
 its only forwarding /api/* calls
