@@ -56,12 +56,12 @@ its only forwarding /api/* calls
     "sinon-chai": "^2.8.0"
   },
 ```  
-sinon - mocking/spying/stubbing 
-jsdom - "fake" browser environment for your tests
-enzyme - lets you test components with mount/shallow 
-mock-local-storage - its adding local storage implementation for tests
-debug - nice logger configured by env variable DEBUG=scope_name
-chai - expect / assertions
+* sinon - mocking/spying/stubbing 
+* jsdom - "fake" browser environment for your tests
+* enzyme - lets you test components with mount/shallow 
+* mock-local-storage - its adding local storage implementation for tests
+* debug - nice logger configured by env variable DEBUG=scope_name
+* chai - expect / assertions
 ...
 
 ## dependencises:
